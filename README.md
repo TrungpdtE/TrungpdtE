@@ -10,4 +10,4 @@
 TrungpdtE/TrungpdtE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Fubuki GIF](Fubuki.gif)
+<img src="Fubuki.gif" alt="Fubuki GIF" width="500" />
