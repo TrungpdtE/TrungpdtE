@@ -4,3 +4,5 @@
 I usually code locally or use Google Colab, so I don't have the habit of uploading files to GitHub :<<<
 
 my leetcode profile: https://leetcode.com/u/pdttnalice/
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pdttnalice?theme=light&font=Asar&ext=heatmap)
